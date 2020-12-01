@@ -10,13 +10,6 @@ namespace CodingChallenge.Data.Classes
     {
         private List<Forma> FormaGeometricaLista { get; set; } = new List<Forma>();
 
-        //private readonly ILocalization Localization;
-
-        //public FormaGroup(ILocalization localization)
-        //{
-        //    this.Localization = localization;
-        //}
-
         public FormasGrupo() { }
 
         public FormasGrupo(List<Forma> list)
