@@ -52,7 +52,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Classes\FormaGeometrica.cs" />
+    <Compile Include="Classes\Circulo.cs" />
+    <Compile Include="Classes\Cuadrado.cs" />
+    <Compile Include="Classes\Forma.cs" />
+    <Compile Include="Classes\FormasGrupo.cs" />
+    <Compile Include="Classes\FormaGeometricaActualizado.cs" />
+    <Compile Include="Classes\Idiomas.cs" />
+    <Compile Include="Classes\Trapecio.cs" />
+    <Compile Include="Classes\TrianguloEquilatero.cs" />
+    <Compile Include="Interfaces\IForma.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
